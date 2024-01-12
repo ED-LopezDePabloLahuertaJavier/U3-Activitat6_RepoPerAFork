@@ -147,7 +147,7 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila2PC6() {
-
+		System.out.println("Hola Javier, feliç any nou i que aprobes el grup");
 	}
 
 	// FILA 3
