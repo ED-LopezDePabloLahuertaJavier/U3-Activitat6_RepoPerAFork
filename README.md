@@ -68,7 +68,8 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 #### AlumneFila2 PC5:
 
 
-#### AlumneFila2 PC6:
+#### AlumneFila2 PC6: Javier López de Pablo Lahuerta
+Hem modificat el .java per a que ens mostre la contestacio de nadal
 
 
 
